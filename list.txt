@@ -1,0 +1,8 @@
+	Beauty Parlour
+	Car Decorator
+	Event Organiser
+	Music System
+	Garden Planner
+	Room Designer
+	Painter
+	Internet Provider

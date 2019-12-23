@@ -1,0 +1,103 @@
+/* Overiding Parent */
+
+
+/* Banners */
+
+.banner{
+
+}
+
+/* INDEX */
+
+.cust-card{
+	height: 180px;
+	width: 180px;
+	margin-left: 20px;
+	margin-top: 40px;
+}
+
+.cust-card:hover{
+	background-color: #eee;
+}	
+
+.services-cards{
+	width: 80%;
+	margin-left: 9%;
+}
+
+.cust-btn{
+	width: 100%;
+	height: auto;
+	padding: 10px;
+	border: none;
+}
+
+/* Display List */
+
+.cust-tile{
+	height: 45px;
+	margin-top: 5px;
+	width: 90%;
+	margin-left: 50px;
+}
+
+.tile-sr{
+	width: 50px;
+	height: 100%;
+	background-color: #eee;
+}
+
+.tile-items{
+	margin-left: 80px;
+	margin-top: -37px;
+
+}
+
+.cust-p{
+	margin-left: 20px;
+	height: 100%;
+}
+
+.t-name{
+	width: 30%;
+} 
+
+.t-phone{
+	width: 23%;
+}
+
+.t-address{
+	width: 44%;
+}
+
+/* DASHBOARD */
+
+.admin-info{
+	float: right;
+	margin-right: 20px;
+}
+
+.dash-box{
+	height: 150px;
+	width: 220px;
+	margin-left: 17px;
+	margin-top: 13px;
+}
+
+
+.dash-panel{
+	width: 90%;
+	margin-left: 10%;
+}
+
+/* LOGIN */
+
+.login-form{
+	width: 350px;
+}
+
+/* INSERT */
+
+.insert-form{
+	width: 400px;
+}

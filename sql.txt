@@ -1,0 +1,7 @@
+== CREATE LOGIN TABLE ==
+
+create table login(email varchar(30), pass varchar(30));
+
+== CREATE RECORDS TABLE ==
+
+create table records(id int, name varchar(30), contact varchar(15), address varchar(80), type varchar(20) );
